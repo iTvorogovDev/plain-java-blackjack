@@ -1,0 +1,33 @@
+==============================RULES OF BLACKJACK==============================
+-Your goal is to get as many points as possible by drawing cards, while not going over 21 points.
+You need to outscore the dealer, who also tries to score as much as possible, but is not allowed 
+to go over 21 points either.
+*Press "Hit" to draw a card and score! The following cards have the following values:
+ -2 - 10 are worth their respective numeric values
+ -Jacks, Queens and Kings are worth 10 points each.
+ -An Ace is worth 1 or 10 points - it's your choice!
+*Hint: when you draw an Ace, it gets highlighted. You can set its value to 10 or 1 point by pressing 
+UP and DOWN arrow keys respectively. If you have 2 or more Aces in your hand, you can select 
+which Ace's value to change by pressing LEFT and RIGHT arrow keys.
+===============================THE GAME PROCESS===============================
+-You start with placing a bet and receiving two cards from the Dealer. Bet is placed by clicking chips. 
+The Dealer then draws two cards, only revealing his first one.
+-If either one of you get an Ace and a card with a value of 10 as your first two cards, it's a Blackjack. 
+Blackjack gives you or the Dealer an instant win. 
+If both you and Dealer get a Blackjack, it's a tie.
+-If the dealer's first card is an Ace, you can place an insurance bet, since the Dealer's next card is
+likely to be worth 10 points. An insurance bet is one half of your original bet, and you win this bet
+if the dealer's second card gives him a Blackjack. This way you win back at least a part of your chips!
+-After two cards have been dealt, you can press "Hit" to draw another card. 
+Be careful! Going over 21 points will make you lose the game (you bust). 
+After you think you have drawn enough, press "Stand" to let the Dealer make his turn.
+-If you draw five cards without going over 21 points, you win even if Dealer's two cards are worth more.
+-If the Dealer scores more than you, you lose. If the Dealer busts, you win.
+The Dealer can only draw while his score is less than 17.
+-After getting the first two cards, you can also press "Double Down". 
+Your bet will increase by 2, and you only get one more card, after which the Dealer's turn follows.
+Payouts:
+-Outscoring the dealer: 2 to 1
+-Getting a Blackjack: 3 to 1
+-Winning insurance bet: 3 to 2
+-Ending the game with a tie: 1 to 1
